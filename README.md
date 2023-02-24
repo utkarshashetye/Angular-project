@@ -1,5 +1,5 @@
 Hello 
-I am Utkarsha Shetye .I am completed my Btech in CSE.
-I am passionate About Full Stack Developement.
-I am interested to learn new technologies .
-This is in short me
+This is My first Angular project
+To run this project we need following requirements
+#.node.js
+#npm
